@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #000000;
+  color: #FFD700;
+  font-family: 'Orbitron', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+.logo {
+  font-size: 64px;
+  margin: 0;
+}
+
+.tagline {
+  font-size: 20px;
+  margin-top: 10px;
+  letter-spacing: 2px;
+}
